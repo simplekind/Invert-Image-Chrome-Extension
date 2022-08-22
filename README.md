@@ -4,6 +4,8 @@
 
 This Chrome Extension will allow you to select a particular image and invert its color.
 
+# Getting Started 
+
 ## Note to use 
 
 - Clone this repository or download as a zip file
@@ -23,7 +25,7 @@ This Chrome Extension will allow you to select a particular image and invert its
 - This works on images and gifs, but not for svg icons. 
 - This extension is only compatible with Google Chrome only
 
-# Getting Started 
+# Doc
 
 ## Contributing
 Pull requests are most welcome.
