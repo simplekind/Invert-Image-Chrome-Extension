@@ -1,0 +1,11 @@
+{
+  "name": "chrome-extension-invert",
+  "version": "1.0.0",
+  "description": "The problem of being faster than light is that you can only live in darkness...",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simplekind",
+  "license": "ISC"
+}

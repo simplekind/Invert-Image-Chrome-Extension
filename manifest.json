@@ -1,0 +1,14 @@
+{
+    "name":"InvertiMage",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "description":"The problem of being faster than light is that you can only live in darkness...",
+    "background":{
+        "page":"background.html",
+        "persistent":true
+    },
+    "icons":{
+        "128":"logo.png"
+    },
+    "permissions":["contextMenus","activeTab"]
+}
