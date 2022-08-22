@@ -6,6 +6,8 @@ This Chrome Extension will allow you to select a particular image and invert its
 
 # Getting Started 
 
+![Preview](https://raw.githubusercontent.com/simplekind/Invert-Image-Chrome-Extension/master/preview.gif)
+
 ## Note to use 
 
 - Clone this repository or download as a zip file
